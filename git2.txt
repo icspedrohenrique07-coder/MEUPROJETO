@@ -1,0 +1,7 @@
+https://github.com/icspedrohenrique07-coder/MEUPROJETO.git
+
+git config --global user.name "icspedrohenrique07-coder"
+git config --global user.email "icspedrohenrique07@gmail.com"
+
+git remote add origin https://github.com/icspedrohenrique07-coder/MEUPROJETO.git
+
